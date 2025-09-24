@@ -1,3 +1,5 @@
+![contoh tampilan](assets/123.png)
+
 # bikinprofile
 
 A new Flutter project.
